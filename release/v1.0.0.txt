@@ -1,0 +1,6 @@
+version 1.0.0 release
+- develop_log_01.txt
+- develop_log_02.txt
+
+- git checkout release
+- git merge develop
